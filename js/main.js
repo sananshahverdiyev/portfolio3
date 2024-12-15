@@ -114,7 +114,25 @@ function commander(cmd) {
           window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
           }, 1000); 
         break;
-   
+   case "su -":
+       addLine("Oh no, you're not admin...", "color2", 80);
+       setTimeout(function() {
+          window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+          }, 1000); 
+        break;
+   case "su - root":
+       addLine("Oh no, you're not admin...", "color2", 80);
+       setTimeout(function() {
+          window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+          }, 1000); 
+        break;
+   case "su":
+       addLine("Oh no, you're not admin...", "color2", 80);
+       setTimeout(function() {
+          window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+          }, 1000); 
+        break;
+
   case "socials":
       loopLines(social, "color2 margin", 80);
       break;
