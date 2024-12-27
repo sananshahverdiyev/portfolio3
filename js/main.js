@@ -91,13 +91,13 @@ function commander(cmd) {
       addLine("<span class=\"inherit\">  reallydude?😂</span>", "error", 100);;
         break;
     case "ip a":
-      addLine("<span class=\"inherit\">  your moms house!😂</span>", "error", 100);
+      addLine("<span class=\"inherit\">  You are genius yeah ?😂</span>", "error", 100);
       break;
     case "ifconfig":
-      addLine("<span class=\"inherit\">  your moms house!😂</span>", "error", 100);
+      addLine("<span class=\"inherit\">  awe try a newer command!😂</span>", "error", 100);
       break;
     case "ip -a":
-      addLine("<span class=\"inherit\">  your moms house!😂</span>", "error", 100);
+      addLine("<span class=\"inherit\">  This what you only know ?😂</span>", "error", 100);
       break;
       case "ifconfig ":
         addLine("<span class=\"inherit\">  awe try a newer command!😂</span>", "error", 100);
